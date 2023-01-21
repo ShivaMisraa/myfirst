@@ -1,0 +1,3 @@
+# myfirst
+#here im Starting with gitHub
+Hey ! this is my thing on GitHub
